@@ -1,22 +1,49 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">[Your Title or Tagline, e.g., A Passionate Developer and Tech Enthusiast]</h3>
-
----
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">Hi there 👋, I'm Shenal Bimsara</h1>
+<h3 align="center">I'm Student in NIBM Universityy</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars" alt="stars" />
 </p>
 
----
 
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 ### 🛠️ About Me 
-- 🌱 I’m currently learning **JAVA, React, Python, Js, PHP**  
-- 📫 How to reach me: **shenalbimsaravijesooriya@gmail.com**  
+
+- 🌱 I’m currently learning **JAVA, React, Python, Js, PHP**
+  
+- 📫 How to reach me: **shenalbimsaravijesooriya@gmail.com**
+    
 - ⚡ Fun fact: **Call me as Sheyy**  
 
----
+</td>
+<td width="50%" align="center">
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+  
+  </td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 ### 🌟 Tech Stack
 <div align="center">
@@ -31,45 +58,24 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 📬 Contact me
+
+<p align=center>
+    <a href="[https://linkedin.com/in/hungpham3112](https://www.linkedin.com/in/shenal-bimsara-wijesuriya-907021346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" 
+       target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.facebook.com/share/19xePutMaX/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:shenalbimsaravijesooriya@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
+    </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-### 📂 Featured Projects
-<p align="center">
-  <a href="https://github.com/yourusername/yourproject1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/yourusername/yourproject2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject2&theme=tokyonight" alt="Project 2" />
-  </a>
-</p>
-
----
-
-### 🌐 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourwebsite.com" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
 
 ⭐️ **From [Shenal Bimsara](https://github.com/ShenalBimsara006)**
